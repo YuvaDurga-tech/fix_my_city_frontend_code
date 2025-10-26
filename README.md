@@ -2,7 +2,7 @@
 
 A modern web application that empowers citizens to report, track, and resolve civic issues in their neighborhoods. Users can submit complaints for problems like potholes, garbage dumping, and broken streetlights, while administrators can manage and update the status of these reports.
 
-This project is built with plain HTML, Tailwind CSS, and vanilla JavaScript, using localStorage to create a persistent user experience without requiring a backend database.
+This project is built with  HTML, CSS, and JavaScript, using localStorage to create a persistent user experience without requiring a backend database.
 
 ✨ Features
 
@@ -36,7 +36,7 @@ Fully Responsive: Clean and modern UI built with Tailwind CSS, works on all devi
 
 🛠 Tech Stack
 
-Frontend: HTML5, Tailwind CSS, Vanilla JavaScript (ES6+)
+Frontend: HTML5, CSS,JavaScript
 
 APIs & Services:
 
